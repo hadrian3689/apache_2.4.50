@@ -1,8 +1,4 @@
-# Project Title
-
-Apache HTTP Server 2.4.50 - Local File Inclusion (LFI) & Remote Code Execution (RCE)
-
-## Description
+# Apache HTTP Server 2.4.50 LFI & RCE
 
 A python3 script for the CVE-2021-42013 - Apache HTTP Server 2.4.50 LFI & RCE. RCE requires cgi-bin to be enabled
 
